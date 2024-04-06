@@ -1,0 +1,46 @@
+o que é gestão de frotas?
+    A gestão de frotas é o trabalho de administrar o conjunto de veículos de uma empresa. Ela envolve todas as etapas que antecedem a saída do veículo da garagem até seu retorno.
+
+para que a gestão de frotas serve?
+    Ela foi criado para controlar e reduzir custos, aumentar o desempenho e diminuir riscos.
+
+como a gestão de frotas funciona?
+    Ela auxilia a redução do custo variável do veículo. Os custos variáveis são: Combustivel, multa, manutenção, pneu, pedágio, lavagem.
+
+quem usa gestão de frotas?
+    Empresas que dependem de um transporte para realizar seus serviços
+
+Controle de questão jurídica 
+    horário de trabalho
+
+responsabilidade civil e criminal
+    acidentes
+    multas
+
+regra de uso do veículo
+    qual a finalidade do veículo
+    limite de velocidade
+    retornar o carro para a empresa todos os dias?
+    retornar o carro com combustível cheio? qual combustivel? qual posto?
+
+plano de manutenção
+    quilomêtros rodados 
+    data de revisão do veículo
+
+planejamento de rotas
+
+Controle de combustivel = economia de dinheiro
+
+Dados Coletados:
+    combustivel gasto
+    quilomêtros rodados
+    dinheiro gasto
+    data da realização de manutenção
+
+
+
+citação “O gerenciamento de frota exerce um papel importantíssimo e imprescindível em muitos setores, da construção à entrega do produto final, além de ser um processo em constante evolução. Hoje e no futuro, novos avanços em tecnologia telemática e software de gerenciamento de frota continuarão ajudando a simplificar e dinamizar a tarefa de gerenciamento de frota”, afirmou Neil Cawse, CEO da Geotab
+referencias:
+https://www.geotab.com/pt-br/blog/gestao-de-frotas-guia-completo/
+https://www.youtube.com/watch?v=6Eq7Tt8sz9M&t=175s&ab_channel=JulioC%C3%A9sar-Gest%C3%A3odeFrotas
+https://contelerastreador.com.br/
