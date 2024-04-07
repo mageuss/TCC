@@ -1,0 +1,27 @@
+Claro, posso ajudar com isso. Um **Sistema Web** é um software que é hospedado na internet e pode ser acessado por meio de um navegador¹. Aqui estão alguns pontos importantes sobre o que é um Sistema Web:
+
+1. **Definição**: Um sistema web é apenas um software hospedado na internet¹. O conceito é muito simples, mas traz inúmeros benefícios para a empresa, sendo o principal deles a possibilidade de acesso em qualquer lugar através de qualquer dispositivo com navegador e conexão à internet¹.
+
+2. **Funcionamento**: Para que um sistema web exista, é necessário que o software seja hospedado em um servidor, que será responsável por executar todos os processamentos e consultas ao banco de dados através de uma linguagem específica¹. Assim, tornando possível o acesso remoto, onde qualquer usuário cadastrado pode acessar o software hospedado e visualizar, manipular e enviar dados a serem processados pelo servidor¹.
+
+3. **Evolução**: Anteriormente, os softwares só podiam ser utilizados em hardwares locais com o software instalado, logo todos os arquivos e documentos produzidos dentro do sistema eram armazenados localmente ou em algum diretório de rede¹. Atualmente, os softwares web se tornaram uma boa escolha para atender necessidades de gestão e processos de qualquer segmento do mercado¹.
+
+4. **Vantagens**: Como um sistema web pode ser utilizado em praticamente qualquer lugar e qualquer momento, problemas de última hora e urgências não serão mais um problema, além de que o acesso a informações e a resolução de problemas em si são mais rápidos e eficazes¹.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Talvez colocar texto abaixo
+
+O primeiro website nasceu no dia 6 de agosto de 1991 no escritório de Tim Berners-Lee. Ele considerou vários nomes para a Web, incluindo Information Mesh, The Information Mine ou Mine of Information, decidindo finalmente por World Wide Web.
+
+Nesse contexto, surgiu o conceito de sistema web, que é apenas um software hospedado na internet. Diferentemente dos softwares tradicionais, que só podiam ser utilizados em hardwares locais com o software instalado, um sistema web permite que todos os arquivos e documentos produzidos dentro do sistema sejam armazenados em um servidor, em vez de localmente ou em algum diretório de rede.
+Para que um sistema web exista, é necessário que o software seja hospedado em um servidor, que será responsável por executar todos os processamentos e consultas ao banco de dados através de uma linguagem específica. Isso torna possível o acesso remoto, onde qualquer usuário cadastrado pode acessar o software hospedado e visualizar, manipular e enviar dados a serem processados pelo servidor.
+Atualmente, os softwares web se tornaram uma boa escolha para atender necessidades de gestão e processos de qualquer segmento do mercado, demonstrando a evolução contínua da internet desde a sua criação.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(1) Sistema Web: o que é e como funciona? - Mestres da Web. https://www.mestresdaweb.com.br/tecnologias/sistema-web-o-que-e-e-como-funciona.
+(2) O que são sistemas web? - Logical Minds. https://www.logicalminds.com.br/o-que-sao-sistemas-web/.
+(3) Sistema Web: O que é e seus benefícios | TrinityWeb. https://conteudo.thetrinityweb.com.br/blog/o-que-e-um-sistema-web/.
+(4) Sistemas web 101: entendendo os fundamentos e os benefícios. https://scriptcaseblog.net/pt/scriptcase-pt/sistemas-web-101-entendendo-os-fundamentos-e-os-beneficios/.
+(5) Diferença entre Sistema Web e Aplicativo - Mestres da Web. https://www.mestresdaweb.com.br/tecnologias/diferenca-entre-sistema-web-e-aplicativo.
